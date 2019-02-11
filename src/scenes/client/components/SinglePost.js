@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import axios from 'axios'
 
 import Breadcrumbs from './Breadcrumbs'
-import Search from './addictionals/Search'
+import Search from '../components/addictionals/Search'
 // import Comments from './addictionals/Comments'
 // import Categorys from './addictionals/Categorys'
 
